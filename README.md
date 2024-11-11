@@ -9,3 +9,6 @@ If you use this code in your research, please cite our paper as follows:
 
 ## Contact
 For questions or collaboration, contact Yinghan Li at [yinghan.li@mail.utoronto.ca].
+
+### Data Access
+The training, validation, and test datasets can be accessed through this [Google Drive link](https://drive.google.com/file/d/1o0V1qA6fPR3OOSPk3EXfMt_quIA1Wm_l/view?usp=sharing).  
