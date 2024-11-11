@@ -12,7 +12,7 @@ If you use this code in your research, please cite our paper as follows:
 **Y. Li and W. Yu,** "Localization in Multipath Environments via Active Sensing With Reconfigurable Intelligent Surfaces," *IEEE Communications Letters,* vol. 28, no. 9, pp. 2061-2065, Sep. 2024, doi: [10.1109/LCOMM.2024.3421370](https://doi.org/10.1109/LCOMM.2024.3421370).
 
 ## Contact
-For questions or collaboration, contact Yinghan Li at [yinghan.li@mail.utoronto.ca].
+For questions, contact Yinghan Li at [yinghan.li@mail.utoronto.ca].
 
 ### Data Access
 The training, validation, and test datasets can be accessed through this [Google Drive link](https://drive.google.com/file/d/1o0V1qA6fPR3OOSPk3EXfMt_quIA1Wm_l/view?usp=sharing).  
